@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>863353317592-vorg8r7b1ka1fejgvv3m652kchul45v0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.863353317592-vorg8r7b1ka1fejgvv3m652kchul45v0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>863353317592-0jgdcntfomrjcjhljmugd4el22559oo3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDCOkS_um0IJVGs6LeqWUB0kOStjbMbCAo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>863353317592</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.arreglatodo.provider</string>
+	<key>PROJECT_ID</key>
+	<string>arreglatodo-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arreglatodo-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:863353317592:ios:aa621160214b36ded68fad</string>
+	<key>DATABASE_URL</key>
+	<string>https://arreglatodo-app-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
