@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>863353317592-vorg8r7b1ka1fejgvv3m652kchul45v0.apps.googleusercontent.com</string>
+	<string>912961404289-0hfut8qebirthh3css6l351enloiiqpc.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.863353317592-vorg8r7b1ka1fejgvv3m652kchul45v0</string>
+	<string>com.googleusercontent.apps.912961404289-0hfut8qebirthh3css6l351enloiiqpc</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>863353317592-0jgdcntfomrjcjhljmugd4el22559oo3.apps.googleusercontent.com</string>
+	<string>912961404289-0o7r29aiakkjiemejd2m7t5vlqr99mvq.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDCOkS_um0IJVGs6LeqWUB0kOStjbMbCAo</string>
+	<string>AIzaSyBHidxn4Rw387s3HSXBCh1KcGKTd8PMOUA</string>
 	<key>GCM_SENDER_ID</key>
-	<string>863353317592</string>
+	<string>912961404289</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.arreglatodo.provider</string>
+	<string>com.kampoiProvider.app</string>
 	<key>PROJECT_ID</key>
-	<string>arreglatodo-app</string>
+	<string>kampoi-app</string>
 	<key>STORAGE_BUCKET</key>
-	<string>arreglatodo-app.appspot.com</string>
+	<string>kampoi-app.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,8 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:863353317592:ios:aa621160214b36ded68fad</string>
+	<string>1:912961404289:ios:5a803cb8052c8ae55abc80</string>
 	<key>DATABASE_URL</key>
-	<string>https://arreglatodo-app-default-rtdb.europe-west1.firebasedatabase.app</string>
+	<string>https://kampoi-app-default-rtdb.firebaseio.com</string>
 </dict>
 </plist>
